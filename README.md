@@ -6,8 +6,8 @@ Original Repo [here](https://github.com/valerionew/unisolder-notes).
 
 Original DangerousPrototypes [thread](http://dangerousprototypes.com/forum/index.php?topic=7218.0).
 
-![Assembled Front Board](frontboard.png)
+![Assembled Front Board](https://github.com/RCdev03/UniSolderRC/blob/main/frontboard.JPG)
 
-![Assembled Rear Board](rearboard.png)
+![Assembled Rear Board](https://github.com/RCdev03/UniSolderRC/blob/main/rearboard.JPG)
 
-![Assembled Toroidal](Toroidal.png)
+![Assembled Toroidal](https://github.com/RCdev03/UniSolderRC/blob/main/Toroidal.JPG)
