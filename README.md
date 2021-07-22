@@ -10,4 +10,4 @@ Original DangerousPrototypes [thread](http://dangerousprototypes.com/forum/index
 
 ![Assembled Rear Board](https://github.com/RCdev03/UniSolderRC/blob/main/rearboard.JPG)
 
-![Assembled Toroidal](https://github.com/RCdev03/UniSolderRC/blob/main/Toroidal.JPG)
+![Assembled Toroidal](https://github.com/RCdev03/UniSolderRC/blob/main/toroidal.JPG)
